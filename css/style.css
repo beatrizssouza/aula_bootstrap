@@ -1,0 +1,23 @@
+body{
+    font: 20px Arial, sans-serif;
+}
+
+.collapse{
+    margin-left:55%;
+}
+.quem-somos{
+    color: #ffffff;
+    background-color:  rgba(14, 147, 209, 0.8);
+}
+.margin{
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+.parceiros{
+    background-color:rgba(184, 134, 11, 0.8);
+    color: #ffffff;
+}
+.bg-footer {
+    background-color:rgba(0, 47, 100, 0.8) ;
+    color: #ffffff;
+}
